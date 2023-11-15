@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giuseppe Maglione -@peppe1604
 - 👀 I am interested in website building, game building and much more. I am passionate about the computer world
-- 🌱I am currently learning C ++, and Javascript
+- 🌱I am currently learning C++, PHP, SQL, JAVA
 - 💞️ I'm looking to partner with new people to learn more about programming
 - 📫 How to reach me: the email where to contact me is giuseppemaglione1604@gmail.com
 
