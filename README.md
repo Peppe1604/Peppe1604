@@ -9,7 +9,7 @@ I'm currently learning **C**, **Java**, **Assembly**, and **Python**.
 ## 💻 My Favorite Technologies/Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ae,docker,c,cpp,eclipse,java,php,linux,ps,ubuntu,vscode&perline=4)	" />
+    <img src="https://skillicons.dev/icons?i=git,ae,ps,c,cpp,eclipse,java,php,html,css,js,ubuntu,vscode,bash,linux" />
   </a>
 </p>
 
