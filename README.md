@@ -13,14 +13,15 @@ I'm currently learning **C**, **Java**, **Assembly**, and **Python**.
   </a>
 </p>
 
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=peppe1604&hide=contribs,prs&show_icons=true&theme=synthwave" alt="Giuseppe's GitHub Stats" />
+  </a>
+</p>
+
 ## 💞️ Looking for Collaborations
 I'm looking to collaborate with others to learn and grow together in the programming world.
 
 ## 📫 How to Reach Me
 You can contact me via email: [giuseppemaglione1604@gmail.com]
-
-
-<!---
-Peppe1604/Peppe1604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
