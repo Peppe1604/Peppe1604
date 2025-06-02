@@ -6,12 +6,12 @@ I'm passionate about **website development**, **game development**, and the enti
 ## 🌱 What I'm Learning
 I'm currently learning **C**, **Java**, **Assembly**, and **Python**.
 
-## 💻 Languages I Know
-- **C++**
-- **JavaScript (JS)**
-- **SQL**
-- **PHP**
-- **HTML & CSS**
+## 💻 My Favorite Technologies/Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## 💞️ Looking for Collaborations
 I'm looking to collaborate with others to learn and grow together in the programming world.
