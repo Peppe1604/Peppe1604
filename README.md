@@ -16,7 +16,7 @@ I'm currently learning **C**, **Java**, **Assembly**, and **Python**.
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=peppe1604&hide=contribs,prs&show_icons=true&theme=synthwave" alt="My GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=peppe1604&hide=0,prs&show_icons=true&theme=tokyonight" alt="My GitHub Stats" />
   </a>
 </p>
 
