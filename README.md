@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I'm Giuseppe Maglione
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Full+Stack+Developer;Game+Development+Enthusiast;Graphic+Design+Passionate;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Computer+Science+Student;Programming+Enthusiast;Problem+Solver;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,11 +22,12 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <div align="center">
-I'm passionate about **website development**, **game development**, and the entire world of programming. Additionally, I'm also passionate about **graphic design** and use programs like **Photoshop**.
+I'm passionate about **website development**, **game development**, and the entire world of programming. Additionally, I'm also passionate about **graphic design** and use programs like **Photoshop**. I'm a **problem solver** who loves tackling challenges through code.
 
-- 🔭 I'm currently working on **personal projects**
+- 🎓 I'm studying at **Università dell'Aquila**
+- 🔭 I'm currently working on **personal projects** and **university assignments**
 - 🌱 I'm currently learning **C**, **Java**, **Assembly**, and **Python**
-- 💬 Ask me about **Web Development**, **Game Development**, **Graphic Design**
+- 💬 Ask me about **Programming**, **Problem Solving**, **Graphic Design**
 - 📫 How to reach me: **giuseppemaglione1604@gmail.com**
 - ⚡ Fun fact: **I love creating visual experiences through code and design**
 </div>
@@ -35,12 +36,12 @@ I'm passionate about **website development**, **game development**, and the enti
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> What I'm Learning</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> What I'm Studying</b>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&weight=40&size=25&pause=1000&color=9100F7&center=true&width=435&lines=Currently+Mastering..." alt="Currently Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&weight=40&size=25&pause=1000&color=9100F7&center=true&width=435&lines=Currently+Studying..." alt="Currently Learning" />
 </div>
 
 <div align="center">
@@ -57,7 +58,7 @@ I'm passionate about **website development**, **game development**, and the enti
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="36"> **My Favorite Technologies/Tools**
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="36"> **Technologies I'm Learning**
 
 </div>
 
@@ -194,7 +195,7 @@ I'm passionate about **website development**, **game development**, and the enti
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&weight=40&size=20&pause=1000&color=9100F7&center=true&width=500&lines=Let's+collaborate+and+grow+together!" alt="Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&weight=40&size=20&pause=1000&color=9100F7&center=true&width=500&lines=Let's+learn+and+grow+together!" alt="Collaboration" />
 </div>
 
 <div align="center">
@@ -233,5 +234,5 @@ I'm passionate about **website development**, **game development**, and the enti
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&weight=40&size=20&pause=1000&color=9100F7&center=true&width=500&lines=Thanks+for+visiting!+⭐+Star+if+you+like+my+work!" alt="Thanks" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Sans&weight=60&pause=1000&color=9100F7&background=FF000000&repeat=false&random=true&width=550&lines=Thanks+for+visiting!+%E2%AD%90+Star+if+you+like+my+work!" alt="Typing SVG" /></a>
 </div>
