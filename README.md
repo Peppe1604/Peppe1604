@@ -148,7 +148,7 @@ I'm passionate about **website development**, **game development**, and the enti
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peppe1604&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Giuseppe's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peppe1604&show_icons=true&theme=jolly&include_all_commits=true&count_private=true&hide_border=true" alt="Giuseppe's GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppe1604&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Giuseppe's Top Languages" />
   </a>
 </div>
