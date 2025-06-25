@@ -45,7 +45,7 @@ I'm passionate about **website development**, **game development**, and the enti
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=c,java&theme=dark" alt="Learning" />
 </div>
 
 <br>
