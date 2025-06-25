@@ -25,8 +25,8 @@
 I'm passionate about **website development**, **game development**, and the entire world of programming. Additionally, I'm also passionate about **graphic design** and use programs like **Photoshop**. I'm a **problem solver** who loves tackling challenges through code.
 
 - 🎓 I'm studying at **Università dell'Aquila**
-- 🔭 I'm currently working on **personal projects** and **university assignments**
-- 🌱 I'm currently learning **C**, **Java**, **Assembly**, and **Python**
+- 🔭 I'm currently working on *personal projects* and *university assignments*
+- 🌱 I'm currently learning **C** and **Java**
 - 💬 Ask me about **Programming**, **Problem Solving**, **Graphic Design**
 - 📫 How to reach me: **giuseppemaglione1604@gmail.com**
 - ⚡ Fun fact: **I love creating visual experiences through code and design**
