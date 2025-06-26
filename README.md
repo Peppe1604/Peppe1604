@@ -61,8 +61,8 @@ const giuseppe = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=peppe1604&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppe1604&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=peppe1604&show_icons=true&theme=ocean_dark&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppe1604&layout=compact&theme=ocean_dark&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
 </div>
 
 <div align="center">
